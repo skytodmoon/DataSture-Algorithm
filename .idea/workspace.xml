@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33815421-95ae-4cef-a21f-5f930a64f2e1" name="Default Changelist" comment="" />
+    <list default="true" id="33815421-95ae-4cef-a21f-5f930a64f2e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Pre/QA30/QA30.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre/QA30/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +61,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Go Build.go build futuremake.com/v1/Pre/QA29">
+  <component name="RunManager" selected="Go Build.go build futuremake.com/v1/Pre/QA30">
     <configuration name="go build QA28.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="DataSture-Algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -76,8 +80,18 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build futuremake.com/v1/Pre/QA30" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataSture-Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Pre/QA30/main.go" />
+      <package value="futuremake.com/v1/Pre/QA30" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA30" />
         <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA29" />
         <item itemvalue="Go Build.go build QA28.go" />
       </list>
@@ -97,6 +111,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
@@ -106,21 +121,21 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1614694384203">
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1614695516212">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1614694384203" />
-    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1614694384203">
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1614695516212" />
+    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1614695516211">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1614694384203" />
-    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1614694384203">
+    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1614695516211" />
+    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1614695516211">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1614694384203" />
-    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1614694384203">
+    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1614695516211" />
+    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1614695516212">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1614694384203" />
+    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1614695516212" />
   </component>
 </project>

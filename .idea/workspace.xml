@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33815421-95ae-4cef-a21f-5f930a64f2e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pre/QA31/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre/QA33/QA33.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre/QA33/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
@@ -60,16 +62,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Go Build.go build futuremake.com/v1/Pre/QA30">
-    <configuration name="go build QA28.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="DataSture-Algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Pre/QA28/QA28.go" />
-      <package value="futuremake.com/v1" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build futuremake.com/v1/Pre/QA33">
     <configuration name="go build futuremake.com/v1/Pre/QA29" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="DataSture-Algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -88,17 +81,46 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build futuremake.com/v1/Pre/QA31" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataSture-Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Pre/QA31/main.go" />
+      <package value="futuremake.com/v1/Pre/QA31" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build futuremake.com/v1/Pre/QA32" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataSture-Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Pre/QA32/main.go" />
+      <package value="futuremake.com/v1/Pre/QA32" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build futuremake.com/v1/Pre/QA33" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataSture-Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Pre/QA33/main.go" />
+      <package value="futuremake.com/v1/Pre/QA33" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA33" />
+        <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA31" />
+        <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA32" />
         <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA30" />
         <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA29" />
-        <item itemvalue="Go Build.go build QA28.go" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -120,21 +142,21 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1614695652293">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1626661908414">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1614695652293" />
-    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1614695652293">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1626661908414" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1626661908413">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1614695652293" />
-    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1614695652292">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1626661908413" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1626661908413">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1614695652292" />
-    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1614695652293">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1626661908413" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1626661908413">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1614695652293" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1626661908413" />
   </component>
 </project>

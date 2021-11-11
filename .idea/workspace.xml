@@ -20,18 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33815421-95ae-4cef-a21f-5f930a64f2e1" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/Pre/Basic/binaryTree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA41/QA41.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA41/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA42/QA42.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA42/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA43/QA43.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA43/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA44/QA44.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pre/QA44/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre/QA45/QA45.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pre/QA45/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pre/QA44/QA44.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pre/QA44/QA44.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pre/QA44/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Pre/QA44/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,16 +67,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Go Build.go build futuremake.com/v1/Pre/QA43">
-    <configuration name="go build futuremake.com/v1/Pre/QA39" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="DataSture-Algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/Pre/QA39/main.go" />
-      <package value="futuremake.com/v1/Pre/QA39" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build futuremake.com/v1/Pre/QA44">
     <configuration name="go build futuremake.com/v1/Pre/QA40" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="DataSture-Algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -120,13 +104,22 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build futuremake.com/v1/Pre/QA44" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataSture-Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Pre/QA44/main.go" />
+      <package value="futuremake.com/v1/Pre/QA44" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA44" />
         <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA43" />
         <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA42" />
         <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA41" />
         <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA40" />
-        <item itemvalue="Go Build.go build futuremake.com/v1/Pre/QA39" />
       </list>
     </recent_temporary>
   </component>
@@ -155,29 +148,49 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="258" key="GridCell.Tab.0.bottom" timestamp="1628218856552">
+    <state width="939" height="205" key="GridCell.Tab.0.bottom" timestamp="1636617562462">
       <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1878" height="258" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1628218856552" />
-    <state width="1878" height="258" key="GridCell.Tab.0.center" timestamp="1628218856552">
+    <state width="939" height="205" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636617562462" />
+    <state width="1878" height="258" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1920.981@0.25.1920.981" timestamp="1628242404246" />
+    <state width="939" height="205" key="GridCell.Tab.0.center" timestamp="1636617562461">
       <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1878" height="258" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1628218856552" />
-    <state width="1878" height="258" key="GridCell.Tab.0.left" timestamp="1628218856551">
+    <state width="939" height="205" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636617562461" />
+    <state width="1878" height="258" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1920.981@0.25.1920.981" timestamp="1628242404245" />
+    <state width="939" height="205" key="GridCell.Tab.0.left" timestamp="1636617562460">
       <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1878" height="258" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1628218856551" />
-    <state width="1878" height="258" key="GridCell.Tab.0.right" timestamp="1628218856552">
+    <state width="939" height="205" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636617562460" />
+    <state width="1878" height="258" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1920.981@0.25.1920.981" timestamp="1628242404245" />
+    <state width="939" height="205" key="GridCell.Tab.0.right" timestamp="1636617562461">
       <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1878" height="258" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1628218856552" />
-    <state x="560" y="247" key="Vcs.Push.Dialog.v2" timestamp="1627265233001">
+    <state width="939" height="205" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636617562461" />
+    <state width="1878" height="258" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1920.981@0.25.1920.981" timestamp="1628242404245" />
+    <state width="939" height="320" key="GridCell.Tab.1.bottom" timestamp="1636596980216">
       <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state x="560" y="247" key="Vcs.Push.Dialog.v2/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1627265233001" />
-    <state x="625" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1626748346043">
+    <state width="939" height="320" key="GridCell.Tab.1.bottom/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636596980216" />
+    <state width="939" height="320" key="GridCell.Tab.1.center" timestamp="1636596980216">
       <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state x="625" y="238" width="670" height="676" key="search.everywhere.popup/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1626748346043" />
+    <state width="939" height="320" key="GridCell.Tab.1.center/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636596980216" />
+    <state width="939" height="320" key="GridCell.Tab.1.left" timestamp="1636596980215">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state width="939" height="320" key="GridCell.Tab.1.left/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636596980215" />
+    <state width="939" height="320" key="GridCell.Tab.1.right" timestamp="1636596980216">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state width="939" height="320" key="GridCell.Tab.1.right/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636596980216" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1628242184463">
+      <screen x="0" y="25" width="1920" height="979" />
+    </state>
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2/-1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1628242184463" />
+    <state x="622" y="302" key="git4idea.merge.GitPullDialog" timestamp="1636593497660">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="622" y="302" key="git4idea.merge.GitPullDialog/-1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1636593497660" />
   </component>
 </project>
